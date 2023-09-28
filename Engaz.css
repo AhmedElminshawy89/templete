@@ -657,7 +657,7 @@ header .container .bar{
 }
 
 .discount .image {
-    background-image: url("../images/contact.jpg");
+    background-image: url("contact.jpg");
     background-size: cover;
     color: #fff;
     flex-basis: 50%;
